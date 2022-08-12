@@ -15,7 +15,8 @@ const AddItem = ({newItem, setNewItem, handleSubmit}) => {
          <button className='addBtn'
             type='submit'
             aria-label='Add Item'
-         >
+         > 
+         +
          </button>
     </form>
   )
